@@ -1,5 +1,4 @@
-
-const projects = [
+projects = [
   {
     id: 1,
     title: "Web Development Portfolio",
